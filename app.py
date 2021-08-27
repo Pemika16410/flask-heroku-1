@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 from flask import Flask, render_template
+import cv2
 
 opencv-python
 opencv-contrib-python
