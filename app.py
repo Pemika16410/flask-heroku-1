@@ -1,6 +1,10 @@
 from flask import Flask, jsonify
 from flask import Flask, render_template
 
+opencv-python
+opencv-contrib-python
+opencv-python-headless
+
 app = Flask(__name__)
 
 data = [
